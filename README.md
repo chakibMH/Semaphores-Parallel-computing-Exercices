@@ -10,7 +10,6 @@ The exercises in this repository cover essential concepts of **multithreading, s
 /Exercises-Series
 │── /Exercises       # Exercise statements and explanations
 │── /Solutions       # Implementations of the exercises
-│── /Docs            # Additional resources and references
 │── README.md        # Overview of the repository
 ```
 
